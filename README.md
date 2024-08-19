@@ -24,7 +24,7 @@ The primary focus of this project lies in integrating the WebKit framework into 
 
 ![Screenshot 2024-02-09 at 7 50 03 PM](https://github.com/DivyaniThota/Tech-News/assets/70434446/8cede762-53bd-4c92-8cb6-d5123209c924)
 
-<img width="600" alt="Screenshot 2024-08-18 at 7 54 01 PM" src="https://github.com/user-attachments/assets/91b6ffb3-af72-47e6-93d7-42e778111748">
+<img width="800" alt="Screenshot 2024-08-18 at 7 54 01 PM" src="https://github.com/user-attachments/assets/91b6ffb3-af72-47e6-93d7-42e778111748">
 
 
 ## DEMO
